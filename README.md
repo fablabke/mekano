@@ -19,4 +19,5 @@ Contenu des dossiers :
 - [/adaptateur](adaptateur) adaptateur en impression 3d pour roues pleines (voir photos)
 - [/batons](batons) contient tous les dxf pour fraisage des batons
 - [/equerres](equerres) contient les fichiers nécessaires à la commande d'équerres metal 
+- [/booklet](booklet) contient deux livrets en PDF pour avoir des idées 
 
